@@ -10,15 +10,15 @@ Me chamo Gabriel Sampaio, tenho 18 anos e sou São Paulo. Atualmente, estou curs
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/prometheu-z/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/prometheu-z/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/prometheu-z/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
@@ -100,6 +100,9 @@ Me chamo Gabriel Sampaio, tenho 18 anos e sou São Paulo. Atualmente, estou curs
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
