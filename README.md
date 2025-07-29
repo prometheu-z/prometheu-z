@@ -7,20 +7,7 @@ Me chamo Gabriel Sampaio, tenho 18 anos e sou São Paulo. Atualmente, estou curs
 ---
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/prometheu-z/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/prometheu-z/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/prometheu-z/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+![Snake animation](https://github.com/prometheu-z/prometheu-z/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🤖 Linguagens e Tecnologias
