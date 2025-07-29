@@ -1,6 +1,6 @@
 
 
-# 👨🏾‍💻 Gabriel Sampaio
+# 💻 Gabriel Sampaio
 
 **`Desenvolvedor FullStack`**
 
@@ -76,7 +76,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <br/>
 <br/>
 
-### 🤖 Estou aprendendo
+### 📚 Estou aprendendo
 
 <img 
     align="left" 
