@@ -4,8 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-<p align="center">Me chamo Gabriel Sampaio, tenho 18 anos e atualmente, estou cursando Sistema de Informação no Instituto Federal de São Paulo (IFSP) e trabalho na área administrativa mas busando estágio na área de TI.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções e sistemas inovadores.
+<p align="center">Estudante de Sistema de Informação no Instituto Federal de São Paulo (IFSP)
   
 #
 
