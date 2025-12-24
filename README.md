@@ -4,7 +4,11 @@
 
 **`Desenvolvedor FullStack`**
 
-<p align="center">Estudante de Sistema de Informação no Instituto Federal de São Paulo (IFSP)
+<p align="center">Estudante de Sistema de Informação no Instituto Federal de São Paulo (IFSP).
+
+
+
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções e sistemas inovadores.
   
 #
 
