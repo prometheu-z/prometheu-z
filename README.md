@@ -2,7 +2,7 @@
 
 # 💻 Gabriel Sampaio
 
-**`Desenvolvedor FullStack`**
+**`Engenheiro de Software`**
 
 <p align="center">Estudante de Sistema de Informação no Instituto Federal de São Paulo (IFSP).
 
